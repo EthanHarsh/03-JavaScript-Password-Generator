@@ -2,6 +2,9 @@
 
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-Vanilla-green) ![OSU Bootcamp Badge](https://img.shields.io/badge/OSU-Bootcamp-red)
 
+## Deployed Application
+[Password Generator](https://ethanharsh.github.io/03-JavaScript-Password-Generator/)
+
 ![Application Screenshot](https://github.com/EthanHarsh/03-JavaScript-Password-Generator/blob/32c1663ef4cea8cd095bae193b0f745143ee818b/assets/password-gen-screenshot.png)
 
 ## Description
