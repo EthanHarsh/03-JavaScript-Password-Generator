@@ -45,9 +45,10 @@ function generatePassword () {
 
   for(i=0; i < len; i++) {
     pass = pass.concat(passArray[Math.floor(Math.random() * passArray.length)]);
-    console.log('Password: ' + pass);
+    //console.log('Password: ' + pass);
   }
 
+  return pass;
   //console.log(passArray);
 }
 
