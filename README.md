@@ -2,7 +2,7 @@
 
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-Vanilla-green) ![OSU Bootcamp Badge](https://img.shields.io/badge/OSU-Bootcampw-red)
 
-![Application Screenshot](./assets/Screen Shot 2021-05-12 at 3.27.54 PM.png)
+![Application Screenshot](https://github.com/EthanHarsh/03-JavaScript-Password-Generator/blob/32c1663ef4cea8cd095bae193b0f745143ee818b/assets/password-gen-screenshot.png)
 
 ## Description
 Password security is extremely important.  These days using your dogs name won't cut it.  These days you want to have a nice long randomized string of unique characters.  Here's a tool for that.
